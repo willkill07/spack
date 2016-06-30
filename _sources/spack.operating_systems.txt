@@ -1,0 +1,38 @@
+spack.operating_systems package
+===============================
+
+Submodules
+----------
+
+spack.operating_systems.cnl module
+----------------------------------
+
+.. automodule:: spack.operating_systems.cnl
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+spack.operating_systems.linux_distro module
+-------------------------------------------
+
+.. automodule:: spack.operating_systems.linux_distro
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+spack.operating_systems.mac_os module
+-------------------------------------
+
+.. automodule:: spack.operating_systems.mac_os
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: spack.operating_systems
+    :members:
+    :undoc-members:
+    :show-inheritance:
